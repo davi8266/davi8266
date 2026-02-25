@@ -9,7 +9,7 @@
 
 
 <img 
-    width="20px"
+    width="25px"
     align="left" 
     alt="Raspberry" 
     title="Raspberry"
@@ -18,7 +18,7 @@
 />
 
 <img 
-    width="30px"
+    width="35px"
     align="left" 
     alt="Python" 
     title="Python"
