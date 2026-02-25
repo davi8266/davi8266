@@ -25,7 +25,6 @@
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
 />
-<br/>
 
 ㅤㅤ
 -
