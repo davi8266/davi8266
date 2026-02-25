@@ -72,7 +72,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/dawidrizzo/">
-<img src="https://img.icons8.com/color/200/linkedin.png" alt="LinkedIn" style="max-width: 100%;height: 50px;">
+<img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" alt="LinkedIn" style="max-width: 100%;height: 50px;">
 </a>
 
 <br/>
