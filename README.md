@@ -1,6 +1,5 @@
 # 👾 Dawid Rizzo
 
-```bash
 > whoami
 Dawid Rizzo
 Estudante de Engenharia da Computação
