@@ -69,6 +69,6 @@
 📧 dawidrizzo@darife.com
 
 <a href="https://www.linkedin.com/in/dawidrizzo/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/d10b94b796b5fc4472fd2cf504186ef961c4373e38ecf5d40a969b45d126d66a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3230302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/color/200/linkedin.png" style="max-width: 100%;height: 50px;">
+<img src="https://camo.githubusercontent.com/d10b94b796b5fc4472fd2cf504186ef961c4373e38ecf5d40a969b45d126d66a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3230302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/color/200/linkedin.png" alt="Django" style="max-width: 100%;height: 50px;">
 </a>
 <br/>
