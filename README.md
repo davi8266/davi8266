@@ -1,11 +1,9 @@
 # 👾 Hello World!
 
 ### 🧠 Sobre Mim
-📚 Cursando **Engenharia da Computação**
-
-🌐 Interesse em Pentest, Redes e Segurança em IoT.
-
-🖥 Explorando soluções de cibersegurança com Raspberry Pi.
+- Cursando **Engenharia da Computação**
+- Interesse em Pentest, Redes e Segurança em IoT.
+- Explorando soluções de cibersegurança com Raspberry Pi.
 
 ---
 
