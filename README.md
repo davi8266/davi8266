@@ -18,8 +18,6 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
     src="https://www.logo.wine/a/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.svg" 
 />  
 <br/>
-<br/>
-<br/>
 
 ### 🎯 Áreas de Interesse
 
