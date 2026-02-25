@@ -34,15 +34,20 @@
 Criar e desenvolver projetos com Raspberry Pi voltados para segurança
 Estudar análise e exploração de redes
 Desenvolver minhas próprias ferramentas de pentest
+
 ㅤㅤ
 -
 ### 📬 Contato
 📧 dawidrizzo@darife.com
 
-
+ㅤㅤ
+-
 ### 📊 Meu Desempenho no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davi8266&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davi8266&layout=compact&theme=dark" />
 </div>
+
+ㅤㅤ
+-
