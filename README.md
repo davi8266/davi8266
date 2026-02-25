@@ -28,6 +28,7 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
 />
 <br/>
+<br/>
 
 ### 🎯 Áreas de Interesse
 
