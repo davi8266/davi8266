@@ -68,7 +68,7 @@
 ### 📬 Contato
 
 <a href="https://www.instagram.com/dawidrizzo/">
-<img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 50px;">
+<img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 45px;">
 </a>
 
 
