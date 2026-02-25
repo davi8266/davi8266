@@ -34,7 +34,6 @@
 Criar e desenvolver projetos com Raspberry Pi voltados para segurança
 Estudar análise e exploração de redes
 Desenvolver minhas próprias ferramentas de pentest
-
 ㅤㅤ
 -
 ### 📬 Contato
