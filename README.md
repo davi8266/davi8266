@@ -9,15 +9,15 @@
 
 ### 🧰 Tecnologias e ferramentas
 
-    
-    <img 
-        width="25px"
-        align="left" 
-        alt="Raspberry" 
-        title="Raspberry"
-        style="padding-right: 10px;" 
-        src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" 
-    />
+<br/>
+<img 
+    width="25px"
+    align="left" 
+    alt="Raspberry" 
+    title="Raspberry"
+    style="padding-right: 10px;" 
+    src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" 
+/>
 
 <img 
     width="35px"
@@ -46,7 +46,7 @@
     src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" 
 />
 <br/>
-
+<br/>
 ---
 
 ### 🚀 Objetivos Atuais
