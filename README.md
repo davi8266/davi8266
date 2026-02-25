@@ -38,6 +38,15 @@
     style="padding-right: 10px;" 
     src="https://kvery.io/images/mssql.png" 
 />
+
+<img 
+    width="35px"
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" 
+/>
 <br/>
 
 ---
