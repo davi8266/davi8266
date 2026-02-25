@@ -29,10 +29,10 @@
 <img 
     width="35px"
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL SERVER" 
+    title="SQL SERVER"
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
+    src="https://kvery.io/images/mssql.png" 
 />
 
 ㅤㅤ
