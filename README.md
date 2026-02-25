@@ -1,5 +1,4 @@
-# 👾 Dawid Rizzo
-> Estudante de Engenharia da Computação
+# 👾 Hello World!
 
 ### 🧠 Sobre Mim
 📚 Cursando **Engenharia da Computação**
