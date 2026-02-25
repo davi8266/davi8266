@@ -4,7 +4,7 @@
 📚 Cursando **Engenharia da Computação**
 
 🌐 Interesse em Pentest, Redes e Segurança em IoT.
--
+
 🖥 Explorando soluções de cibersegurança com Raspberry Pi.
 
 
@@ -27,7 +27,7 @@
 />
 <br/>
 <br/>
-
+-
 
 ### 🚀 Objetivos Atuais
 
