@@ -35,8 +35,7 @@
     src="https://kvery.io/images/mssql.png" 
 />
 
-ㅤㅤ
--
+---
 
 ### 🚀 Objetivos Atuais
 
