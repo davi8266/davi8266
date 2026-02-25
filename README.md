@@ -11,7 +11,7 @@
 Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 
 <img 
-    width="100px"
+    width="25px"
     align="left" 
     alt="C" 
     title="C"
