@@ -4,9 +4,8 @@
 > whoami
 Dawid Rizzo
 Estudante de Engenharia da Computação
-Futuro Especialista em Cibersegurança
 
-🧠 Sobre Mim
+##🧠 Sobre Mim
 
 🎓 Estudante de Engenharia da Computação
 🔐 Focado em Segurança da Informação
@@ -15,7 +14,7 @@ Futuro Especialista em Cibersegurança
 
 Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 
-🎯 Áreas de Interesse
+##🎯 Áreas de Interesse
 
 🔐 Segurança da Informação
 
@@ -45,6 +44,13 @@ Desenvolver minhas próprias ferramentas de pentest
 📧 dawidrizzo@darife.com
 
 
+
+### 📊 Meu Desempenho no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davi8266&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davi8266&layout=compact&theme=dark" />
+</div>
 
 
 while(vivo){
