@@ -72,11 +72,6 @@
 </a>
 
 
-<a href="https://www.instagram.com/dawidrizzo/">
-<img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 50px;">
-</a>
-
-
-<a href="https://www.instagram.com/dawidrizzo/">
-<img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 50px;">
+<a href="https://www.linkedin.com/in/dawidrizzo/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" style="max-width: 100%;height: 50px;">
 </a>
