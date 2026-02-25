@@ -9,7 +9,6 @@
 
 ### 🧰 Tecnologias e ferramentas
 
-<br/>
 <img 
     width="25px"
     align="left" 
@@ -46,7 +45,7 @@
     src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" 
 />
 <br/>
-<br/>
+
 ---
 
 ### 🚀 Objetivos Atuais
