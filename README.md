@@ -73,5 +73,5 @@
 
 
 <a href="https://www.linkedin.com/in/dawidrizzo/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" style="max-width: 100%;height: 50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="Instagram" style="max-width: 100%;height: 50px;">
 </a>
