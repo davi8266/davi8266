@@ -20,12 +20,12 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 />
 
 <img 
-    width="100px"
+    width="40px"
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Python" 
+    title="Python"
     style="padding-right: 10px;" 
-    src="https://www.logo.wine/a/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
 />
 <br/>
 
