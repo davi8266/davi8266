@@ -20,7 +20,7 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 />
 
 <img 
-    width="40px"
+    width="50px"
     align="left" 
     alt="Python" 
     title="Python"
