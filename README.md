@@ -16,7 +16,7 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
     alt="C" 
     title="C"
     style="padding-right: 10px;" 
-    src="https://www.logo.wine/a/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.svg" 
+    src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" 
 />
 
 <img 
