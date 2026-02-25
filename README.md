@@ -10,7 +10,7 @@
 ---
 
 ### 🧰 Tecnologias e ferramentas
-
+<br/>
 <img 
     width="25px"
     align="left" 
