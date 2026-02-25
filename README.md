@@ -71,8 +71,8 @@
 <img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 50px;">
 </a>
 
-<a href="https://www.linkedin.com/in/dawidrizzo/">
-<img src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg" alt="LinkedIn" style="max-width: 100%;height: 50px;">
+<a href="https://www.instagram.com/dawidrizzo/">
+<img src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" alt="Instagram" style="max-width: 100%;height: 50px;">
 </a>
 
 <br/>
