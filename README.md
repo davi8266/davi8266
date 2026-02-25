@@ -14,10 +14,10 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
     align="left" 
     alt="C" 
     title="C"
-    width="35px" 
-    style="padding-right: 10px;" 
+    width="100px" 
     src="https://www.logo.wine/a/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.svg" 
 />  
+
 
 ### 🎯 Áreas de Interesse
 
