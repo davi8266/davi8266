@@ -11,10 +11,10 @@
 Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 
 <img 
-    width="25px"
+    width="40px"
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Raspberry" 
+    title="Raspberry"
     style="padding-right: 10px;" 
     src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" 
 />
