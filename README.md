@@ -2,8 +2,10 @@
 > Estudante de Engenharia da Computação
 
 ### 🧠 Sobre Mim
+📚 Cursando Engenharia da Computação
 
 🌐 Interesse em Pentest, Redes e Segurança em IoT.
+
 🖥 Explorando soluções de cibersegurança com Raspberry Pi.
 
 Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
@@ -11,9 +13,13 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 ### 🎯 Áreas de Interesse
 
 🔐 Segurança da Informação
+
 🧨 Pentest
+
 🌐 Redes de Computadores
+
 📡 Segurança em IoT
+
 🐧 Ambientes Linux
 
 ### 🚀 Objetivos Atuais
