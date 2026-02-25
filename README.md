@@ -67,3 +67,4 @@
 
 ### 📬 Contato
 📧 dawidrizzo@darife.com
+https://www.linkedin.com/in/dawidrizzo/
