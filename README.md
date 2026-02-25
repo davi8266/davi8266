@@ -1,10 +1,9 @@
 # 👾 Dawid Rizzo
 
 > whoami
-Dawid Rizzo
 Estudante de Engenharia da Computação
 
-# 🧠 Sobre Mim
+### 🧠 Sobre Mim
 
 🎓 Estudante de Engenharia da Computação
 🔐 Focado em Segurança da Informação
@@ -13,7 +12,7 @@ Estudante de Engenharia da Computação
 
 Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 
-# 🎯 Áreas de Interesse
+### 🎯 Áreas de Interesse
 
 🔐 Segurança da Informação
 
@@ -27,7 +26,7 @@ Atualmente aprofundando conhecimentos em segurança ofensiva e defensiva.
 
 
 
-# 🚀 Objetivos Atuais
+### 🚀 Objetivos Atuais
 
 Desenvolver laboratórios práticos de cibersegurança
 
@@ -38,7 +37,7 @@ Estudar análise e exploração de redes
 Desenvolver minhas próprias ferramentas de pentest
 
 
-# 📬 Contato
+### 📬 Contato
 📧 dawidrizzo@darife.com
 
 
